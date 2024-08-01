@@ -1,3 +1,5 @@
-# TurkishMitGame
+# Be Quiet
 
-#macera keşif oyunu
+görevimiz komutanımızın istediği istihbahratı toplamak
+köy düşman askerleri tarafından korunuyor
+askerlere yakalanmadan gerekli bilgileri toplayıp komutana götürebilir misin
